@@ -12,6 +12,7 @@
   },
   "author": "Max Stoiber",
   "license": "MIT",
+  "homepage": "https://stateca.sharepoint.com/sites/DevTest/DASandbox/SPFX/PiaSharePoint/",
   "scripts": {
     "analyze:clean": "rimraf stats.json",
     "preanalyze": "npm run analyze:clean",
